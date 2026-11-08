@@ -1,0 +1,29 @@
+# ==========================================================
+# API Keys, Secrets & Spotify OAuth Tokens (NEVER COMMIT)
+# ==========================================================
+.env
+.env.*
+*.env
+.spotify_token_cache
+.cache
+.cache-*
+*.cache
+config.json
+*secret*
+*credentials*
+
+# ==========================================================
+# Python Bytecode & Virtual Environments
+# ==========================================================
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# ==========================================================
+# PyInstaller Temporary Build Artifacts
+# ==========================================================
+build/
+dist/
