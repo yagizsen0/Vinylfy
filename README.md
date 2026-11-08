@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="Output/Vinylfy_Setup_v1.0.0.exe">
+  <a href="https://github.com/yagizsen0/Vinylfy/raw/main/Output/Vinylfy_Setup_v1.0.0.exe">
     <img src="https://img.shields.io/badge/Download_Windows_Setup-Vinylfy__Setup__v1.0.0.exe-1ED760?style=for-the-badge&logo=windows&logoColor=black" alt="Download Vinylfy Setup (.exe)" />
   </a>
 </p>
@@ -33,7 +33,7 @@ No hardcoded API keys are required—on first launch, **Vinylfy** walks you thro
 
 Want to install **Vinylfy** right away without installing Python?
 
-- **Windows 10 / 11 (x64) Setup Wizard:** [**Download `Vinylfy_Setup_v1.0.0.exe`**](Output/Vinylfy_Setup_v1.0.0.exe) *(located in [`Output/Vinylfy_Setup_v1.0.0.exe`](Output/Vinylfy_Setup_v1.0.0.exe))*
+- **Windows 10 / 11 (x64) Setup Wizard:** [**Direct Download `Vinylfy_Setup_v1.0.0.exe`**](https://github.com/yagizsen0/Vinylfy/raw/main/Output/Vinylfy_Setup_v1.0.0.exe) *(repository path: [`Output/Vinylfy_Setup_v1.0.0.exe`](Output/Vinylfy_Setup_v1.0.0.exe))*
 - Includes Start Menu entry, optional Desktop shortcut, and standard Windows Uninstaller.
 
 ---
